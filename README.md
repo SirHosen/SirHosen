@@ -1,3 +1,11 @@
+<div align="center">
+
+## ✍️ Dev Quote of the Day
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
 # 👋 Hi there, I'm SirHosen!
 
 <div align="center">
@@ -68,30 +76,11 @@
 
 <div align="center">
 
-## 🐍 Contribution Snake
+## 🗓️ Contribution
 
-![snake gif](https://github.com/SirHosen/SirHosen/blob/output/github-snake-dark.svg)
-
-</div>
-
----
-
-<div align="center">
-
-## ✍️ Dev Quote of the Day
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![snake gif](https://github.com/SirHosen/SirHosen/blob/output/ocean.gif)
 
 </div>
 
----
-
-<div align="center">
-
-## 🧭 Visitor Count
-
-[![](https://visitcount.itsvg.in/api?id=SirHosen&icon=8&color=11)](https://visitcount.itsvg.in)
-
-</div>
 
 <!-- Made with ❤️ by SirHosen | Powered by GPRM (https://gprm.itsvg.in) -->
