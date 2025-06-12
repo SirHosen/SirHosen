@@ -6,20 +6,6 @@
 
 # 👋 Hi there, I'm SirHosen!
 
-<div align="center">
-
-## 🌐 Connect with Me
-
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Q4MdSjyR)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hosea.oktarivanes.9)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/Hofsy778)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/30170467)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hoseaoktarivanes.com)
-
-</div>
-
----
-
 ## 💫 About Me
 🎓 6th-semester undergraduate in Information Technology  
 🚀 Passionate about real-world tech projects and continuous learning  
@@ -84,6 +70,19 @@
 <div align="center">
 
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=nord)
+
+</div>
+
+---
+<div align="center">
+
+## 🌐 Connect with Me
+
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Q4MdSjyR)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hosea.oktarivanes.9)
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/Hofsy778)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/30170467)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hoseaoktarivanes.com)
 
 </div>
 
