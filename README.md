@@ -20,7 +20,6 @@
 
 ## 💻 Tech Stack
 
-
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
@@ -57,16 +56,6 @@
 </div>
 
 ---
-
-<div align="center">
-
-## 🗓️ Contribution
-
-![snake gif](https://github.com/SirHosen/SirHosen/blob/output/ocean.gif)
-
-</div>
-
----
 <div align="center">
 
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=nord)
@@ -83,6 +72,8 @@
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/Hofsy778)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/30170467)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hoseaoktarivanes.com)
+
+![snake gif](https://github.com/SirHosen/SirHosen/blob/output/ocean.gif)
 
 </div>
 
