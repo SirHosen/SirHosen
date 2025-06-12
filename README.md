@@ -1,6 +1,6 @@
-
-![Gemini_Generated_Image_589isx589isx589i](https://github.com/user-attachments/assets/13458857-1d2f-4934-a869-33e5cf5e5cc5)
-
+<div align="center">
+![d3b04eab1e692340264cfc7ca11c8a7d](https://github.com/user-attachments/assets/b62547d6-a219-4fb0-ac99-8632cc7630d5)
+</div>
 # 👋 Hi there, I'm SirHosen!
 
 <div align="center">
