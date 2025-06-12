@@ -1,5 +1,5 @@
-![Uploading Gemini_Generated_Image_589isx589isx589i.png…]()
 
+![Gemini_Generated_Image_589isx589isx589i](https://github.com/user-attachments/assets/13458857-1d2f-4934-a869-33e5cf5e5cc5)
 
 # 👋 Hi there, I'm SirHosen!
 
