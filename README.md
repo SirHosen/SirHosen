@@ -1,15 +1,5 @@
 # 👋 Hi there, I'm SirHosen!
 
-## 💫 About Me
-🎓 6th-semester undergraduate in Information Technology  
-🚀 Passionate about real-world tech projects and continuous learning  
-💻 Diving deep into Linux systems, cybersecurity basics, and full-stack development  
-🧠 Always learning from experienced developers  
-🎧 Ask me anything about code, classical music, Linux distros, or geek stuff  
-🎼 Fun fact: I'm just as comfortable in the Linux terminal as I am getting lost in a Bach fugue
-
----
-
 <div align="center">
 
 ## 🌐 Connect with Me
@@ -21,6 +11,16 @@
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hoseaoktarivanes.com)
 
 </div>
+
+---
+
+## 💫 About Me
+🎓 6th-semester undergraduate in Information Technology  
+🚀 Passionate about real-world tech projects and continuous learning  
+💻 Diving deep into Linux systems, cybersecurity basics, and full-stack development  
+🧠 Always learning from experienced developers  
+🎧 Ask me anything about code, classical music, Linux distros, or geek stuff  
+🎼 Fun fact: I'm just as comfortable in the Linux terminal as I am getting lost in a Bach fugue
 
 ---
 
