@@ -10,14 +10,21 @@
 
 ---
 
+<div align="center">
+
 ## 🌐 Connect with Me
+
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Q4MdSjyR)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hosea.oktarivanes.9)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/Hofsy778)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/30170467)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hoseaoktarivanes.com)
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 💻 Tech Stack
 
@@ -47,7 +54,11 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black)
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 📈 GitHub Stats
 
@@ -57,19 +68,36 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SirHosen&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-
-##  Contribution
-
-![snake gif](https://github.com/SirHosen/SirHosen/blob/output/ocean.gif)
+</div>
 
 ---
+
+<div align="center">
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/SirHosen/SirHosen/blob/output/github-snake-dark.svg)
+
+</div>
+
+---
+
+<div align="center">
 
 ## ✍️ Dev Quote of the Day
 
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+</div>
+
 ---
 
+<div align="center">
+
+## 🧭 Visitor Count
+
+[![](https://visitcount.itsvg.in/api?id=SirHosen&icon=8&color=11)](https://visitcount.itsvg.in)
+
+</div>
 
 <!-- Made with ❤️ by SirHosen | Powered by GPRM (https://gprm.itsvg.in) -->
