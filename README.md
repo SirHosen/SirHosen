@@ -66,15 +66,7 @@
   <a href="https://reddit.com/user/u/Hofsy778"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white"/></a>
   <a href="https://stackoverflow.com/users/30170467"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white"/></a>
   <a href="mailto:hoseaoktarivanes.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
-</p>
-
----
-
-<h2 align="center"> 📅Contribution</h2>
--
-<p align="center">
   <img src="https://github.com/SirHosen/SirHosen/blob/output/ocean.gif" alt="Contribution Snake"/>
 </p>
-
 
 <!-- Made with ❤️ by SirHosen | Powered by GPRM (https://gprm.itsvg.in) -->
