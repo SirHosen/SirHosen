@@ -1,8 +1,4 @@
-<div align="center">
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
 
 # 👋 Hi there, I'm SirHosen!
 
@@ -80,5 +76,11 @@
 
 </div>
 
+---
+<div align="center">
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=nord)
+
+</div>
 
 <!-- Made with ❤️ by SirHosen | Powered by GPRM (https://gprm.itsvg.in) -->
