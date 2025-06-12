@@ -1,6 +1,6 @@
 <div align="center">
-  
-![d3b04eab1e692340264cfc7ca11c8a7d](https://github.com/user-attachments/assets/b62547d6-a219-4fb0-ac99-8632cc7630d5)
+
+  ![d3b04eab1e692340264cfc7ca11c8a7d](https://github.com/user-attachments/assets/cdf04254-8d24-4af0-8af5-23aede9240cd)
 
 </div>
 
