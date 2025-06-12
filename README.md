@@ -1,7 +1,8 @@
 <p align="center">
-  <img src="![d3b04eab1e692340264cfc7ca11c8a7d](https://github.com/user-attachments/assets/94594bad-b0d5-4650-995f-667b436a82e6)
-" alt="banner" />
+  <img src="![d3b04eab1e692340264cfc7ca11c8a7d](https://github.com/user-attachments/assets/c38377bf-4883-4259-954b-fcc9f06f1c38)
+" alt="banner">
 </p>
+
 
 <h1 align="center">👋 Hi there, I'm SirHosen!</h1>
 
