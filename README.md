@@ -1,8 +1,8 @@
-<p align="center">
-  <img src="![d3b04eab1e692340264cfc7ca11c8a7d](https://github.com/user-attachments/assets/c38377bf-4883-4259-954b-fcc9f06f1c38)
-" alt="banner">
-</p>
+<div align="center">
 
+  ![d3b04eab1e692340264cfc7ca11c8a7d](https://github.com/user-attachments/assets/cdf04254-8d24-4af0-8af5-23aede9240cd)
+
+</div>
 
 <h1 align="center">👋 Hi there, I'm SirHosen!</h1>
 
