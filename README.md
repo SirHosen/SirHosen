@@ -59,9 +59,9 @@
 
 ---
 
-## 🐍 Contribution Snake
+##  Contribution
 
-![snake gif](https://github.com/SirHosen/SirHosen/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/SirHosen/SirHosen/blob/output/ocean.gif)
 
 ---
 
@@ -71,8 +71,5 @@
 
 ---
 
-## 🧭 Visitor Count
-
-[![](https://visitcount.itsvg.in/api?id=SirHosen&icon=8&color=11)](https://visitcount.itsvg.in)
 
 <!-- Made with ❤️ by SirHosen | Powered by GPRM (https://gprm.itsvg.in) -->
