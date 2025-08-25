@@ -2,8 +2,9 @@
 
 
 </div>
-
+<h1 align="center">
 ![212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514](https://github.com/user-attachments/assets/c036246e-5df8-4c9a-9231-df6c1659cc92)
+</h1>
 <h1 align="center">👋 Hi there, I'm Hosen!</h1>
 
 ---
