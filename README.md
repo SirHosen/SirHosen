@@ -1,9 +1,3 @@
-<div align="center">
-    <img src="https://github.com/user-attachments/assets/c036246e-5df8-4c9a-9231-df6c1659cc92" alt="Deskripsi Gambar" />
-</div>
-<h1 align="center">👋 Hi there, I'm Hosen!</h1>
-
-
 ---
 
 ## 💫 About Me
